@@ -1,7 +1,7 @@
 export const Hero = () => {
   return (
     <section className="flex flex-1 items-start bg-white flex-row dark:text-slate-100">
-      <aside className="flex justify-start items-start justify-start  flex-col p-12">
+      <aside className="flex justify-start items-start justify-center  flex-col py-12 px-40">
         <span className="text-black text-[24px]/[38.4px] w-3/5 font-normal text-wrap text-left">
           <h3 className="text-[32px]/[51.1px] font-medium text-pretty mb-4">
               SINC Partners is a service incubation company 
