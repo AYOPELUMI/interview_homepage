@@ -1,4 +1,6 @@
 import AreaofFocus from './components/AreaofFocus';
+import CoFound from './components/CoFound';
+import EIR from './components/EIR';
 import Faq from './components/Faq';
 import { Hero } from './components/Hero';
 import NetworkBuilder from './components/NetworkBuilder';
@@ -15,6 +17,8 @@ export const HomePage = () => {
       <AreaofFocus />
       <OurConceptInnovatiion />
       <Service />
+      <CoFound />
+      <EIR />
       <Testimonials />
       <Faq />
     </main>
