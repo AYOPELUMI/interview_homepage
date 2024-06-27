@@ -1,4 +1,3 @@
-
 export const Hero = () => {
   return (
     <section className="flex flex-1 items-start bg-white flex-row dark:text-slate-100">
@@ -10,7 +9,7 @@ export const Hero = () => {
           Connecting experts in product development and growth marketing willing to offer their services to amazing startups in exchange for minute equity (usually 0.5% to 2%).
           SINC With Us
         </span>
-        <button className="bg-custom-black text-sm/[19.2px] text-white px-6 py-4 font-medium rounded-3xl w-fit">Apply to SIP 1.0</button>
+        <button className="mt-3 self-start bg-custom-black text-sm/[19.2px] text-white px-6 py-4 font-medium rounded-3xl w-fit">Apply to SIP 1.0</button>
 
       </aside>
       <aside className="flex-1">

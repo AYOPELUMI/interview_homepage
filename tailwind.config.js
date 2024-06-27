@@ -14,6 +14,7 @@ export default {
           'custom-white': '#F4F6FA',
           'custom-white-fade' : '#F4F4F4',
           'text-custom-black' : '#212121',
+          'custom-text-black' : '#4E4E4E',
           'custom-dark-brown' : '#303030',
           'custom-orange' : '#F47733',
           'custom-pink' : '#FF78BF',
