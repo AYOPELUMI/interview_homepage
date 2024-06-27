@@ -3,6 +3,7 @@ import CoFound from './components/CoFound';
 import EIR from './components/EIR';
 import Faq from './components/Faq';
 import { Hero } from './components/Hero';
+import Investor from './components/Investor';
 import NetworkBuilder from './components/NetworkBuilder';
 import OurConceptInnovatiion from "./components/OurConceptInnovation";
 import Quote from './components/Quote';
@@ -19,6 +20,7 @@ export const HomePage = () => {
       <Service />
       <CoFound />
       <EIR />
+      <Investor />
       <Testimonials />
       <Faq />
     </main>
