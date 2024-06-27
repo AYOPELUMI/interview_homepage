@@ -1,15 +1,15 @@
 export const Hero = () => {
   return (
     <section className="flex flex-1 items-start bg-white flex-row dark:text-slate-100">
-      <aside className="flex justify-center items-center  flex-col p-12">
-        <span className="text-black text-[24px]/[38.4px] font-normal text-wrap text-left">
+      <aside className="flex justify-start items-center  flex-col p-12">
+        <span className="text-black text-[24px]/[38.4px] w-3/5 font-normal text-wrap text-left">
           <h3 className="text-[32px]/[51.1px] font-medium text-pretty mb-4">
               SINC Partners is a service incubation company 
           </h3>
           Connecting experts in product development and growth marketing willing to offer their services to amazing startups in exchange for minute equity (usually 0.5% to 2%).
           SINC With Us
         </span>
-        <button className="mt-3 self-start bg-custom-black text-sm/[19.2px] text-white px-6 py-4 font-medium rounded-3xl w-fit">Apply to SIP 1.0</button>
+        <button className=" mt-4 bg-custom-black text-sm/[19.2px] text-white px-6 py-4 font-medium rounded-full w-fit">Apply to SIP 1.0</button>
 
       </aside>
       <aside className="flex-1">

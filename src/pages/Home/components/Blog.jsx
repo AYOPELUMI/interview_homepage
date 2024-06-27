@@ -6,10 +6,10 @@ const Blog = () => {
             Blogs & Resources
             </h3>
 
-            <div className='flex mt-16 gap-4'>
+            <div className='flex mt-16 gap-4 justify-center'>
 
-                <div className='bg-white flex-1 flex flex-col rounded-xl py-5 px-4 gap-9 items-start'>
-                <svg width="378" height="235" viewBox="0 0 378 235" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <div className='bg-white max-w-[300px] flex-1 flex flex-col rounded-xl py-5 px-4 gap-9 items-start'>
+                <svg width="300" height="235" viewBox="0 0 378 235" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g clip-path="url(#clip0_154_5820)">
 <rect width="378" height="235" fill="url(#pattern0_154_5820)"/>
 <rect width="378" height="235" fill="url(#paint0_linear_154_5820)" fill-opacity="0.8"/>
@@ -61,8 +61,8 @@ const Blog = () => {
                 </div>
 
                 </div>
-                <div className='bg-white flex-1 flex flex-col rounded-xl py-5 px-4 gap-9 items-start'>
-                <svg width="378" height="235" viewBox="0 0 378 235" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <div className='bg-white max-w-[300px] flex-1 flex flex-col rounded-xl py-5 px-4 gap-9 items-start'>
+                <svg width="300" height="235" viewBox="0 0 378 235" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g clip-path="url(#clip0_154_5820)">
 <rect width="378" height="235" fill="url(#pattern0_154_5820)"/>
 <rect width="378" height="235" fill="url(#paint0_linear_154_5820)" fill-opacity="0.8"/>
@@ -113,8 +113,8 @@ const Blog = () => {
                 </div>
 
                 </div>
-                <div className='bg-white flex-1 flex flex-col rounded-xl py-5 px-4 gap-9 items-start'>
-                <svg width="378" height="235" viewBox="0 0 378 235" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <div className='bg-white max-w-[300px] flex-1 flex flex-col rounded-xl py-5 px-4 gap-9 items-start'>
+                <svg width="300"  height="235" viewBox="0 0 378 235" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g clip-path="url(#clip0_154_5820)">
 <rect width="378" height="235" fill="url(#pattern0_154_5820)"/>
 <rect width="378" height="235" fill="url(#paint0_linear_154_5820)" fill-opacity="0.8"/>

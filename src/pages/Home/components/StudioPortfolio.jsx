@@ -1,5 +1,11 @@
+import { FaArrowRightLong } from "react-icons/fa6"
 import Row1 from "../../../assets/SVG/Studio/Row1"
 import Row2 from "../../../assets/SVG/Studio/Row2"
+import Row3 from "../../../assets/SVG/Studio/Row3"
+import Row4 from "../../../assets/SVG/Studio/Row4"
+import Row5 from "../../../assets/SVG/Studio/Row5"
+import Row6 from "../../../assets/SVG/Studio/Row6"
+
 
 const StudioPortfolio = () => {
     return (
@@ -13,7 +19,15 @@ const StudioPortfolio = () => {
 
             <div className='flex flex-wrap justify-center mt-9'>
                 <Row1 />
-                <Row2 />            
+                <Row2 />    
+                <Row3 />
+                <Row4 />
+                <Row5 />
+                <Row6 />        
+                <a className='text-black font-bold text-sm flex gap-1 border-b w-fit items-center mt-16'>
+                        View all Companies
+                        <FaArrowRightLong />
+                        </a>
             </div>
         </section>
     )
