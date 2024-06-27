@@ -24,7 +24,7 @@ export default {
           'metal': '#1C2499',
           'tahiti': '#CED8E6',
           'custom-white-bg' :'#F4F6FA1A',
-          'custom-text-color': '#1E1E1E',
+          'custom-text-color': '#8E8E8E',
           'bubble-gum': '#ff77e9',
           'bermuda': '#78dcca',
           'custom-green':"#20888F",
