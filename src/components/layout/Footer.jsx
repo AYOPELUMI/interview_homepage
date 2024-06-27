@@ -14,7 +14,7 @@ export const Footer = () => {
            <FooterLogo />
             <p className=' text-wrap text-[14px]/[20px] font-light text-white'>SINC Partners is a service incubation company connecting experts in product development and growth marketing willing to offer their services to amazing startups in exchange for minute equity (usually 0.5% to 2%)</p>
           </div>
-          <div className='flex-1 text-[16px/[23.65px] gap-3 font-normal text-white'>
+          <div className=' ml-10 flex-1 text-[16px/[23.65px] gap-3 font-normal text-white'>
               <h3 className='text-[18px/[25.65px] font-medium mb-5'>Platforms</h3>
               <p>Kofoundme</p>
               <p>InResidency</p>
@@ -64,7 +64,7 @@ export const Footer = () => {
               <p>Abuja, Nigeria</p>
               <p>Lagos, Nigeria</p>
               <p>Philadelphia, USA</p>
-                <div>
+                <div className='flex gap-2'>
                   <TrustedBusinessLogo />
                   <WhatsappLogo />
                 </div>
