@@ -12,7 +12,7 @@ import Service from './components/Service';
 import StudioPortfolio from './components/StudioPortfolio';
 export const HomePage = () => {
   return (
-    <main>
+    <main className='px-28 bg-custom-white-fade'>
       <Quote />
       <NetworkBuilder />
       <AreaofFocus />

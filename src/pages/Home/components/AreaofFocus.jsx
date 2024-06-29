@@ -1,6 +1,6 @@
 const AreaofFocus = () => {
     return (
-        <section className=' bg-custom-white-fade w-full py-12 px-20 flex flex-col'>
+        <section className=' bg-custom-white-fade w-full py-12 flex flex-col'>
             <h3 className="text-text-custom-black text-[56px]/[67.2px] font-medium text-center">
                 Our Area of Focus
             </h3>

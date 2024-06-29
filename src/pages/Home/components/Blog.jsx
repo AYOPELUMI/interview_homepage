@@ -1,7 +1,7 @@
 import { FaArrowRightLong } from "react-icons/fa6";
 const Blog = () => {
     return (
-        <section className=' bg-custom-white-fade w-full  py-12 px-20 flex flex-col'>
+        <section className=' bg-custom-white-fade w-full mt-20 py-18 flex flex-col'>
             <h3 className="text-text-custom-black text-[56px]/[67.2px] font-medium text-center">
             Blogs & Resources
             </h3>
@@ -169,7 +169,7 @@ const Blog = () => {
                 </div>
             </div>
 
-            <a className='text-black font-bold text-sm flex gap-1 border-b w-fit items-center mt-12 self-center'>
+            <a className='text-black font-bold text-lg flex gap-1 border-b w-fit items-center mt-12 self-center'>
              See More Blogs & Resources
               <FaArrowRightLong />
             </a>

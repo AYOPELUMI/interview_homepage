@@ -44,7 +44,7 @@ const CoFound = () => {
                 </div>
                 
             </div>
-            <a className='text-black txt-[16px]/[22px] font-bold text-sm flex gap-1 border-b w-fit items-center self-center mt-12'>
+            <a className='text-black txt-lg font-bold text-sm flex gap-1 border-b w-fit items-center self-center mt-12'>
                         Build your dream
                         <FaArrowRightLong />
                     </a>

@@ -24,11 +24,11 @@ const StudioPortfolio = () => {
                 <Row4 />
                 <Row5 />
                 <Row6 />        
-                <a className='text-black font-bold text-sm flex gap-1 border-b w-fit items-center mt-16'>
+            </div>
+                <a className='text-black mx-auto font-bold text-lg flex gap-1 border-b w-fit items-center mt-20'>
                         View all Companies
                         <FaArrowRightLong />
                         </a>
-            </div>
         </section>
     )
 }

@@ -74,7 +74,7 @@ const EIR = () => {
                 Support the future
                 <FaArrowRightLong />
             </a>
-            <div className="flex gap-10 mt-9 ml-auto mr-auto">
+            <div className="flex gap-20 mt-9 ml-auto mr-auto">
                  <button className="bg-white text-sm/[14px] text-custom-text-black p-6 border border-[#4D4D4D] font-medium rounded-full w-fit"><FaArrowLeftLong /></button>
                  <button className="bg-white text-sm/[14px] text-custom-text-black p-6 border border-[#4D4D4D] font-medium rounded-full w-fit"><FaArrowRightLong /></button>
 
