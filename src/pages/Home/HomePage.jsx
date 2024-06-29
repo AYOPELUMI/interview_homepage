@@ -3,7 +3,6 @@ import Blog from './components/Blog';
 import CoFound from './components/CoFound';
 import EIR from './components/EIR';
 import Equity from './components/Equity';
-import Featured from './components/Featured';
 import Investor from './components/Investor';
 import NetworkBuilder from './components/NetworkBuilder';
 import OurConceptInnovatiion from "./components/OurConceptInnovation";
@@ -24,7 +23,6 @@ export const HomePage = () => {
       <Investor />
       <Equity />
       <Blog />
-      <Featured />
     </main>
   );
 };
