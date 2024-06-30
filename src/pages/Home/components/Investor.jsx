@@ -24,7 +24,7 @@ const Investor = () => {
 
             <div className='flex divide-x- divide-[#A4A4A4] mt-8'>
 
-                <div className='flex-1 flex flex-col rounded-xl py-5 px-4 items-start'>
+                <div className='flex-1 flex flex-col   py-5 px-4 items-start'>
                     <p className='font-medium text-[18px]/[21px] mb-2'>
                         Deal 1
                     </p>
@@ -53,7 +53,7 @@ const Investor = () => {
                 People with Domain Expertise and Advisors  
                 </p>
                 </div>
-                <div className='flex-1 flex flex-col rounded-xl py-5 px-4 items-start'>
+                <div className='flex-1 flex flex-col   py-5 px-4 items-start'>
                 <p className='font-medium text-[18px]/[21px] mb-2'>
                     Deal 2
                 </p>
@@ -82,7 +82,7 @@ const Investor = () => {
                 Developers, Engineers, Growth Marketers
                 </p>
                 </div>
-                <div className='flex-1 flex flex-col rounded-xl py-5 px-4 rounded-xl py-5 px-4 items-start'>
+                <div className='flex-1 flex flex-col   py-5 px-4   py-5 px-4 items-start'>
                 <p className='font-medium text-[18px]/[21px] mb-2'>
                     Deal 3
                 </p>
@@ -111,7 +111,7 @@ const Investor = () => {
                 Everyone 
                  </p>
                 </div>
-                <div className='flex-1 flex flex-col rounded-xl py-5 px-4  items-start'>
+                <div className='flex-1 flex flex-col   py-5 px-4  items-start'>
                     <p className='font-medium text-[18px]/[21px] mb-2'>
                         Deal 4
                     </p>
@@ -155,7 +155,7 @@ const Investor = () => {
 
             <div className='divide-x divide-slate-700 flex mt-8'>
 
-                <div className='flex-1 flex flex-col rounded-xl py-5 px-4  items-start'>
+                <div className='flex-1 flex flex-col   py-5 px-4  items-start'>
                     <p className='font-medium text-[18px]/[21px] mb-2'>
                         Deal 5
                     </p>
@@ -185,7 +185,7 @@ const Investor = () => {
                  Angel Investors, VCs, PE, Institutions   
                 </p>
                 </div>
-                <div className='flex-1 flex flex-col rounded-xl py-5 px-4 items-start'>
+                <div className='flex-1 flex flex-col   py-5 px-4 items-start'>
                 <p className='font-medium text-[18px]/[21px] mb-2'>
                     Deal 6
                 </p>
@@ -214,7 +214,7 @@ const Investor = () => {
                 VCs, PE, Institutions
                 </p>
                 </div>
-                <div className='flex-1 flex flex-col rounded-xl py-5 px-4 rounded-xl py-5 px-4 items-start'>
+                <div className='flex-1 flex flex-col   py-5 px-4   py-5 px-4 items-start'>
                 <p className='font-medium text-[18px]/[21px] mb-2'>
                     Deal 7
                 </p>
@@ -243,7 +243,7 @@ const Investor = () => {
                 The Public
                  </p>
                 </div>
-                <div className='flex-1 flex flex-col rounded-xl py-5 px-4 rounded-xl py-5 px-4 gap-1 justify-between items-start'>
+                <div className='flex-1 flex flex-col   py-5 px-4   py-5 px-4 gap-1 justify-between items-start'>
                     <InvestorSVG />
                 </div>
                 

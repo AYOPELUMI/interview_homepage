@@ -5,7 +5,7 @@ export const Header = () => {
   const navList=[ "About", "SIP", "Studio", "SEEQ","Platform","Initiative" , "More"]
   return (
     <header>
-      <nav className="p-10 px-32 bg-custom-white-fade w-full">
+      <nav className="p-8 px-32 bg-custom-white-fade w-full">
         <div className=" gap-6 flex items-center justify-between ">
           <div className="flex items-center">
             <Logo />

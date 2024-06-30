@@ -2,17 +2,17 @@ import { FaArrowRightLong } from "react-icons/fa6";
 import BlogSVG from "../../../assets/SVG/Blog/BlogSVG";
 const Blog = () => {
     return (
-        <section className=' bg-custom-white-fade w-full py-18 flex flex-col'>
+        <section className=' bg-custom-white-fade w-full py-18 flex flex-col items-center'>
             <h3 className="text-text-custom-black text-[56px]/[67.2px] font-medium text-center">
             Blogs & Resources
             </h3>
 
-            <div className='flex mt-16 gap-6 w-full'>
+            <div className='flex mt-16 gap-10'>
 
-                <div className='bg-white w-fit flex flex-col rounded-xl gap-6 '>
+                <div className='bg-white w-fit flex flex-col rounded-xl gap-6 max-w-[378px] '>
                     <BlogSVG />
 
-                    <div className='flex gap-2'>
+                    <div className='flex gap-2 items-center justify-between pr-3'>
                         <div className='w-3/5 p-4'>
                         <p className='font-semibold text-[14px]/[16.8px] text-text-custom-black text-left'>
                         Top Ten Most Powerful Startup
@@ -34,10 +34,10 @@ const Blog = () => {
                     </div>
                 </div>
 
-                <div className='bg-white flex w-fit flex-col rounded-xl gap-6'>
+                <div className='bg-white flex w-fit flex-col rounded-xl gap-6 max-w-[378px]'>
                 <BlogSVG />
 
-                <div className='flex justify-between'>
+                <div className='flex items-center justify-between pr-3'>
                     <div className='w-3/5 p-4'>
                     <p className='font-semibold text-[14px]/[16.8px] text-text-custom-black text-left'>
                     Top Ten Most Powerful Startup
@@ -58,10 +58,10 @@ const Blog = () => {
                 </div>
 
                 </div>
-                <div className='bg-white w-fit flex flex-col rounded-xl gap-6 '>
+                <div className='bg-white w-fit flex flex-col rounded-xl gap-6 max-w-[378px]'>
                     <BlogSVG />
 
-                <div className='flex justify-between'>
+                <div className='flex items-center justify-between pr-3'>
                     <div className='w-3/5 p-4'>
                     <p className='font-semibold text-[14px]/[16.8px] text-text-custom-black text-left'>
                     Top Ten Most Powerful Startup
