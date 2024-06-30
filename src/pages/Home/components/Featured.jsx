@@ -14,7 +14,7 @@ const Featured = () => {
                 <Info />
                 <FeaturedImage2 />
             </div>
-            <h3 className="text-text-custom-black mt-12 text-[80px]/[104px] font-medium text-center">
+            <h3 className="text-text-custom-black mt-12 text-[80px]/[104px] px-40 font-medium text-center text-wrap">
             Let's build companies that help everyone succeed
             </h3>
 
